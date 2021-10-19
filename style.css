@@ -1,0 +1,63 @@
+h1 {
+    margin-left: 50px;
+
+font-family: monospace;
+
+}
+
+h3 {
+    margin-left: 50px;
+    font-size: small;
+    color: rgba(255, 0, 0, 0.747);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#innehåll {
+    margin-left: 50px;
+    
+}
+
+
+
+body {
+
+    background-color: darkslategray;
+
+}
+
+#köknapp {
+    cursor: pointer;
+    border-radius: 15%;
+    background-color:rgb(131, 182, 182);
+    height: 25px;
+    border-color:rgb(0, 255, 21);
+
+
+}
+
+#vipknapp {
+    cursor:pointer;
+    border-radius: 15%;
+    background-color:rgb(131, 182, 182);
+    height: 25px;
+    border-color:rgb(0, 255, 21);
+    margin-left:  5px;
+    margin-top: 5px;
+    
+
+}
+
+#checkinknapp {
+    cursor:cell;
+    border-radius: 15%;
+    background-color: rgb(131, 182, 182);
+    height: 25px;
+    margin-left:  5px;
+    margin-top: 5px;
+    border-color:rgb(0, 255, 21);
+    
+}
+
+#textid {
+    width: 20%;
+}
